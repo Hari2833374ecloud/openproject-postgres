@@ -1,9 +1,9 @@
 users:
-  - name: openproject
+  - name: Harikrishnan JR
     password: $POSTGRESQL_OPENPROJECT_PASSWORD
     role: superuser
 databases:
-  - name: openproject
+  - name: appzdevops
     owner: openproject
     tablespace:
       - name: tb1
